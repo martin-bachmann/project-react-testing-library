@@ -68,4 +68,5 @@ describe('07 - Teste o componente <PokemonDetails.js />', () => {
     const favPokemons2 = screen.queryAllByTestId('pokemon-name');
     expect(favPokemons2).toHaveLength(0);
   });
+  // vamos
 });
