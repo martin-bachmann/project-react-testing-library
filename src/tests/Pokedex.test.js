@@ -8,7 +8,7 @@ import pokemons from '../data';
 const constName = 'pokemon-name';
 const constNext = 'next-pokemon';
 
-describe('06 - Teste o componente <Pokemon.js />', () => {
+describe('06 - Teste o componente <Pokedex.js />', () => {
   it('Teste se a página contém um título', () => {
     renderWithRouter(<App />);
 
